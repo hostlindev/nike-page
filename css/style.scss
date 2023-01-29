@@ -8,7 +8,6 @@ section {
   position: relative;
   width: 100%;
   min-height: 100vh;
-  padding: 100px;
   background: linear-gradient(to bottom, #d509a0, #ff606e);
   header {
     top: 0;
@@ -38,6 +37,7 @@ section {
     width: 100%;
     height: 100vh;
     margin-top: 40px;
+    padding: 100px;
     padding-bottom: 40px;
     .imgBx {
       position: relative;
